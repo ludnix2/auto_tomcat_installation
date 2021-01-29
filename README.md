@@ -1,4 +1,4 @@
-# auto_tomcat_installation
+# Auto Tomcat Installation
 Automatically install and configure Java and Tomcat application server on centos
 
 You need to edit this lines if you need some specific version, by default it will install apache tomcat 8.5.30 and Java 8 JDK with last update.
